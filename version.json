@@ -1,0 +1,8 @@
+{
+    "version":  "1.1.0",
+    "mandatory":  false,
+    "releaseDate":  "2026-10-03",
+    "notes":  "الإصدار الأول من NovaGet:\n- تحميل مقسّم على عدة اتصالات مع استكمال بعد الانقطاع.\n- زر تحميل الفيديو في المتصفح واختيار الجودة.\n- دعم يوتيوب وفيسبوك وتيك توك وغيرها عبر yt-dlp.\n- تحديث تلقائي من هذا المستودع.",
+    "url":  "https://github.com/mustafaalfahd-max/novaget-releases/releases/download/v1.1.0/NovaGet-1.1.0.zip",
+    "sha256":  "998B866AC701BC3164EDC7595B9093C428E6BBBC139476A54BE4C6567ADFE9B8"
+}
